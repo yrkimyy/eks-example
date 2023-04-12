@@ -1,1 +1,1 @@
-echo "# eks-example" 
+# eks-example
